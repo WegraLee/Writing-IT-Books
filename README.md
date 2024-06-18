@@ -8,7 +8,7 @@ IT 책 대부분에 적용할 수 있는 범용 집필 가이드(프로그래머
 
 **범용 집필 가이드**
 
-- [프로그래머의 책쓰기](https://docs.google.com/document/d/1gUz4EbOAb_i61VE1gtWfEAeaw0kgwxUA4J0Q7RYap94) ([웹북으로 보기](http://www.realhanbit.co.kr/books/166))
+- [프로그래머의 책쓰기](https://docs.google.com/document/d/1gUz4EbOAb_i61VE1gtWfEAeaw0kgwxUA4J0Q7RYap94)
 
 **패턴별 집필 가이드**
 
